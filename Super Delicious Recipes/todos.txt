@@ -1,0 +1,37 @@
+Requirements
+[+] Make app target ios 16
+[+] Fetch recipes from the server
+[+] Display a recipe's name, thumbnail, and cuisine (as the minimum)
+[+] Add pull to refresh functionality
+[+] Save recipe images to the disk
+[+] Use async/await for concurrency
+[+] No 3rd party dependencies
+[+] Write tests for the app
+[+] Use SwiftUI
+    Note:
+        Overall, I would say 95%+ of this app is written in SwiftUI
+        
+        The Launch Screen, WebView, and RecipeImage components have a small
+        mixture of UIKit because this app targets an older version of iOS
+        that cannot access newer api's from Apple.
+
+
+Other
+[+] Build a Launch Screen
+[+] Add an app icon
+[+] Use MVVM patterns
+[+] Set up navigation
+[+] Make a view model to manage recipes
+[+] Allow users to search for a recipe
+[+] Allow users to filter recipes via: name, cuisine, rating, has video, has website
+[]  Show selected filters as pilsners
+[+] Make a service to fetch recipes from the api
+[] Make a service to fetch recipes from the cache
+[] Make a service to cache recipes
+[+] Present a featured/spotlight recipe
+[+] Allow users to see more details about a recipe
+[+] Display some basic information about the recipe
+[+] Allow users to visit the youtube video (if it exists)
+[+] Allow users to visit the source url (if it exists)
+[+] Allow users to favorite a recipe
+[+] Allow users to rate a recipe
