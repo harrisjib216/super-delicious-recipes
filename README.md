@@ -47,9 +47,11 @@ implemented SwiftData to support recipe caching. This would "trim" the number of
 
 1. Naming conventions
 
-2. Lack of SwiftData and/or CoreData
+1. Lack of SwiftData and/or CoreData
 
-2. View Model configuration
+1. View Model configuration
+
+1. The `StoreViewModelTests` class was having a strange bug where the `allRecipes` variable kept becoming overwritten before each function could run. As a workaround, I reassigned the `allRecipes` variable before each test ran
 
 
 ### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
