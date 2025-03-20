@@ -30,11 +30,6 @@ make the app feel real.
 Approximately 3 days since Monday the 17th. In order, I focused my time on ideation, rough design, development and
 testing, and finally unit testing.
 
-Note: I wasn't able to start the project when I first received it due to some personal time constraints. I
-communicated this to my recruiter last week. Additionally, I got sick last week and also had an allergic reaction 
-which prevented me from starting the project until this week. Because I was later than anticipated, I needed
-to be above and beyond the requirements to make up for the lost time. My apologies for the delay.
-
 
 ### Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
 
