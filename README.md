@@ -5,8 +5,6 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |------------- |
 | ![App Icon](/Screenshots/App%20Icon.png) | ![Launch Screen](/Screenshots/Launch%20Screen.png) | ![Home Screen](/Screenshots/Home%20Screen.png) | ![Filters](/Screenshots/Filters.png) | ![Selected Recipe](/Screenshots/Selected%20Recipe.png) | ![Youtube](/Screenshots/Youtube.png) | ![Website](/Screenshots/Website.png) | ![Tests](/Screenshots/Tests.png) |
 
-| StoreViewModelTests | RecipeDetailsViewModelTests | FetchRecipesServiceTests |
-| ----- | ----- | ----- |
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
@@ -56,4 +54,4 @@ implemented SwiftData to support recipe caching. This would "trim" the number of
 
 ### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
 
-Looking forward to hearing back from the Fetch team! I will put up a video demo soon. Until then, thank you!
+I will put up a video demo soon. Until then, thank you!
